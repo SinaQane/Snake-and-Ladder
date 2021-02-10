@@ -27,12 +27,12 @@ A) Healer (Blue piece): Heals a random piece in its adjcent cells in each move. 
 
 B) Sniper (Red piece): Kills a random piece in its adjcent cells in each move. Making a alive piece dead and diactivating it. Getting a number "5" on the dice activates it.
 
-C) Bomber (Green piece): Kills every piece, destroys every prize in a 3*3 area and makes its cell black. Getting a number "3" on the dice activates it.
+C) Bomber (Green piece): Kills every piece and destroys every prize in the 3*3 area around it and changes its current cell's color to black. Getting a number "3" on the dice activates it. Double click on it for explosion. 
 
-D) Thief (Yellow piece): It's always activated, it can go to every cell, and it can grab and move a prize from a point to the other one.
+D) Thief (Yellow piece): It's always activated, it can go to every cell, and it can grab and move a prize from a point to the other one. Double click on it to grab/drop it's prize.
 
 
-7. There are four different sankes:
+7. There are four different kind of sankes:
 
 A) Normal (Blue snake): It moves piece to its tail and takes 3 points from you.
 
@@ -45,6 +45,6 @@ D) Earthworm (Black snake): It moves piece to a random location and takes 3 poin
 
 8. If you exit the game, after coming back to the game and entering your names in order, you can resume your last game.
 
-# Playing
+# How to Play
 
 Just download the code and run it with Java. You'll need Java 8 or newer versions.
