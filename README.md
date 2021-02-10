@@ -1,6 +1,7 @@
 # Snake-and-Ladder
 
-My Basic Programming project for university course
+My final project for the university's basic programming course
+
 
 It's similar to the original Snake and Ladder game with some differences:
 
@@ -43,3 +44,7 @@ D) Earthworm (Black snake): It moves piece to a random location and takes 3 poin
 
 
 8. If you exit the game, after coming back to the game and entering your names in order, you can resume your last game.
+
+# Playing
+
+Just download the code and run it with Java. You'll need Java 8 or newer versions.
