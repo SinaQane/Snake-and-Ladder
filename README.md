@@ -6,7 +6,7 @@ My final project for the university's basic programming course
 It's similar to the original Snake and Ladder game with some differences:
 
 
-1. Pieces can move in each direction. Winner is the player whose score is more than the his/her rival afer 40 moves (20 moves each).
+1. Pieces can move in each direction. Winner is the player whose score is more than his/her rival afer 40 moves (20 moves each).
 
 
 2. Dices' sides don't have equal chances, getting a prize or getting the same number on a dice twice in a row changes the sides' chances. Getting a number "2" from a dice resets the chances to "1-1-1-1-1-1". You can right click on dice to get its info.
@@ -38,7 +38,7 @@ A) Normal (Blue snake): It moves piece to its tail and takes 3 points from you.
 
 B) Magical (Yellow snake): It moves piece to its tail and gives 3 points to you. It also makes the piece activated.
 
-C) Killer (Red snake): It moves piece to its tail and takes 3 points from you. It also kills the piece.
+C) Deadly (Red snake): It moves piece to its tail and takes 3 points from you. It also kills the piece.
 
 D) Earthworm (Black snake): It moves piece to a random location and takes 3 points from you.
 
