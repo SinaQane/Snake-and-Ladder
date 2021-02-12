@@ -25,11 +25,11 @@ It's similar to the original Snake and Ladder game with some differences:
 
 A) Healer (Blue piece): Heals a random piece in its adjcent cells in each move. Making a dead piece alive again. Getting a number "1" on the dice activates it.
 
-B) Sniper (Red piece): Kills a random piece in its adjcent cells in each move. Making a alive piece dead and diactivating it. Getting a number "5" on the dice activates it.
+B) Sniper (Red piece): Kills a random piece in its adjcent cells in each move. Making an alive piece dead and diactivating it. Getting a number "5" on the dice activates it.
 
 C) Bomber (Green piece): Kills every piece and destroys every prize in the 3*3 area around it and changes its current cell's color to black. Getting a number "3" on the dice activates it. Double click on it for explosion. 
 
-D) Thief (Yellow piece): It's always activated, it can go to every cell, and it can grab and move a prize from a point to the other one. Double click on it to grab/drop it's prize.
+D) Thief (Yellow piece): It's always activated, it can go to every cell, and it can grab and move a prize from a point to the other one. Double click on it to grab a prize/drop it's prize.
 
 
 7. There are four different kind of sankes:
