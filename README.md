@@ -43,7 +43,7 @@ C) Deadly (Red snake): It moves piece to its tail and takes 3 points from you. I
 D) Earthworm (Black snake): It moves piece to a random location and takes 3 points from you.
 
 
-8. If you exit the game, after coming back to the game and entering your names in order, you can resume your last game.
+8. If you exit the game, after coming back to the game and entering your names in the same order as before, you can resume your last game with your opponent.
 
 # How to Play
 
